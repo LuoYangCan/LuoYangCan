@@ -74,6 +74,5 @@ ct&hide_border=true&theme=default&langs_
 
 #### 📫 Reach me
 
-[![Email](https://img.shields.io/badge/-gmail&logoColor=white)](mailto:luo.yangcan
-@foxmail.com)
+[![Email](https://img.shields.io/badge/-gmail&logoColor=white)](mailto:luo.yangcan@foxmail.com)
 [![Blog](https://img.shields.io/badge/-Bgo&logoColor=white)](https://luoyangcan.github.io)
