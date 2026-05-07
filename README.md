@@ -55,8 +55,6 @@ Now I spend my days arguing with LLMs abharnesses to keep them in line.
 
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0088CC?style=flat&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badlat&logo=typescript&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?style=flat&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 
@@ -75,4 +73,5 @@ ct&hide_border=true&theme=default&langs_
 #### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/-gmail&logoColor=white)](mailto:luo.yangcan@foxmail.com)
+
 [![Blog](https://img.shields.io/badge/-Bgo&logoColor=white)](https://luoyangcan.github.io)
